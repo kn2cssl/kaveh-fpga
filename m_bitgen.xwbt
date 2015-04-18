@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\Fatemeh\Desktop\YASHIL_FPGA\m.ncd
+OUTFILE=C:\Users\Fatemeh\Desktop\YASHIL_FPGA\m.bit
+FAMILY=Spartan3
+PART=xc3s400-4tq144
+WORKINGDIR=C:\Users\Fatemeh\Desktop\YASHIL_FPGA
+LICENSE=WebPack
+USER_INFO=__0_0_0

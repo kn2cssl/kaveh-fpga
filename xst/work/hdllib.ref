@@ -1,0 +1,10 @@
+AR micro_com2 behavioral C:/Users/Fatemeh/Desktop/YASHIL_FPGA/micro_com2.vhd sub00/vhpl07 1427813863
+EN pwm NULL C:/Users/Fatemeh/Desktop/YASHIL_FPGA/pwm.vhd sub00/vhpl00 1427813856
+AR drivermotor behavioral C:/Users/Fatemeh/Desktop/YASHIL_FPGA/driver.vhd sub00/vhpl03 1427813859
+AR m behavioral C:/Users/Fatemeh/Desktop/YASHIL_FPGA/m.vhd sub00/vhpl09 1427813865
+EN drivermotor NULL C:/Users/Fatemeh/Desktop/YASHIL_FPGA/driver.vhd sub00/vhpl02 1427813858
+AR pwm behavioral C:/Users/Fatemeh/Desktop/YASHIL_FPGA/pwm.vhd sub00/vhpl01 1427813857
+EN m NULL C:/Users/Fatemeh/Desktop/YASHIL_FPGA/m.vhd sub00/vhpl08 1427813864
+EN micro_com2 NULL C:/Users/Fatemeh/Desktop/YASHIL_FPGA/micro_com2.vhd sub00/vhpl06 1427813862
+EN write_to_usb NULL C:/Users/Fatemeh/Desktop/YASHIL_FPGA/Write_to_USB.vhd sub00/vhpl04 1427813860
+AR write_to_usb behavioral C:/Users/Fatemeh/Desktop/YASHIL_FPGA/Write_to_USB.vhd sub00/vhpl05 1427813861
